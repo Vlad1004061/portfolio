@@ -230,9 +230,9 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	text-align: center;
 	
 }
-.column__content:nth-child(1){
+/* .column__content:nth-child(1){
 	margin-top: 20px;
-}
+} */
 /* .column__content:nth-child(3){
 	margin-left: 41px;
 } */
